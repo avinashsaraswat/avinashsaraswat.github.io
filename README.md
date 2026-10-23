@@ -1,6 +1,6 @@
 # avinashsaraswat.github.io
 
-The personal site of Avi Saraswat. An index of public work, writing and code.
+The personal site of Avinash Saraswat. An index of public work, writing and code.
 
 Plain HTML and CSS. No framework, no build step, no analytics, no tracking. Light and dark follow the system setting.
 
