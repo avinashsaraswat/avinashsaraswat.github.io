@@ -35,7 +35,7 @@ The 404 page uses absolute paths from the site root, so it works at both address
 
 ## Updating
 
-Edit the HTML, commit and push. GitHub Pages serves `main` from the root at https://avinashsaraswat.github.io and redeploys on each push.
+Edit the HTML, commit and push. GitHub Pages serves `main` from the root at https://avinashsaraswat.com (avinashsaraswat.github.io redirects there) and redeploys on each push.
 
 - When a series piece or a take is live, mark it published on `writing.html`, and on `index.html` for a featured piece, with its link.
 - When a new fsi-eval-harness version ships, update the release link and the version DOI on `work.html` and `index.html`. The concept DOI stays.
