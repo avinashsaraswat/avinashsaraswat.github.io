@@ -2,7 +2,7 @@
 
 The personal site of Avinash Saraswat. An index of public work, writing and code.
 
-Plain HTML and CSS. No framework, no build step, no analytics, no tracking. Light and dark follow the system setting.
+It is plain HTML and CSS, with no framework, build step, analytics or tracking. The site has one light scheme. Its typefaces, Schibsted Grotesk and JetBrains Mono, are served from the site itself under the SIL Open Font License, so no font service sees a visitor.
 
 ## Files
 
@@ -11,6 +11,7 @@ Plain HTML and CSS. No framework, no build step, no analytics, no tracking. Ligh
 - `writing.html`, the series schedule and the takes list
 - `about.html`, the About text and the disclosure line
 - `style.css`, the one stylesheet
+- `fonts/`, the two typefaces and their licences
 - `404.html`, the not-found page
 - `.nojekyll`, tells GitHub Pages to serve the files as they are
 
